@@ -132,7 +132,7 @@
                                 </li>
                             </ul>
                     @endguest
-                    <li class="page_menu_item menu_mm"><a href="contact.html">Contact<i class="fa fa-angle-down"></i></a></li>
+                    <li class="page_menu_item menu_mm"><a href="{{route('contact.go')}}">Contact<i class="fa fa-angle-down"></i></a></li>
                 </ul>
             </div>
         </div>
