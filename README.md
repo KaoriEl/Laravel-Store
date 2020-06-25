@@ -47,27 +47,27 @@
 
 <p align="center"><b>Главная</b></p>
 <p align="center">
-    <img src="https://ibb.co/jbrQCx6">
+    <img src="https://i.ibb.co/1z38fKB/image.png">
 </p>
 
 <p align="center"><b>Страница регистрации</b></p>
 <p align="center">
-    <img src="https://ibb.co/R462X8w">
+    <img src="https://i.ibb.co/1JXZCcW/image.png">
 </p>
 
 <p align="center"><b>Просмотр товара</b></p>
 <p align="center">
-    <img src="https://ibb.co/3BKT0Hw">
+    <img src="https://i.ibb.co/ypzwXH0/image.png">
 </p>
 
 <p align="center"><b>Просмотр корзины</b></p>
 <p align="center">
-    <img src="https://ibb.co/KwHm2jY">
+    <img src="https://i.ibb.co/r3fSw7L/image.png">
 </p>
 
 <p align="center"><b>Просмотр заказа</b></p>
 <p align="center">
-    <img src="https://ibb.co/17TLT7B">
+    <img src="https://i.ibb.co/F42HVB3/image.png">
 </p>
 
 <br>
